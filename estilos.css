@@ -1,0 +1,189 @@
+@charset "utf-8";
+#contenedor {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    vertical-align: sub;
+    height: 1150px;
+    width: 1020px;
+}
+#encabezado {
+    background-color: #FF9294;
+    height: 150px;
+    width: 1020px;
+}
+#encabezado {
+    background-color: #FFFFFF;
+    float: left;
+    height: 150px;
+    width: 1020px;
+}
+#logo {
+    float: left;
+    height: 120px;
+    width: 350px;
+}
+#redes sociales {
+    background-color: #EC070A;
+    height: 50px;
+    width: 620px;
+    padding-right: 0px;
+    padding-left: 50px;
+    text-align: right;
+}
+#redes img {
+	margin-left: 20px;		
+}
+#menu {
+    background-color: #5C1024;
+    float: right;
+    height: 50px;
+    width: 620px;
+    margin-top: 20px;
+    margin-left: 10px;
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#menu a {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: #FFFFFF;
+	font-size: 20px; 
+	text-decoration-line: none;
+	padding-bottom: 10px;
+	padding-left: 20px; 
+	
+	background:#5C1024;
+}
+
+#menu a:hover{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: #FFFFFF;
+	font-size: 20px; 
+	text-decoration-line: none;
+	padding: 10px;
+	
+	background:#856F1A;
+}
+#vanner {
+    height: 500px;
+    width: 1020px;
+}
+#vanner {
+    background-color: #F40E12;
+    height: 500px;
+    width: 1020px;
+    font-weight: bold;
+}
+.TITULOS {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #530E20;
+    height: 50px;
+    width: 1020px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 180px;
+    padding-top: 10px;
+}
+.CONTENIDOS {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    height: 200px;
+    width: 900px;
+    margin-left: 50px;
+    margin-top: 5px;
+    padding-top: 20px;
+}
+#final {
+    background-color: #5C1024;
+    height: 50px;
+    width: 1020px;
+    margin-top: 100px;
+    color: #FFFFFF;
+    padding-top: 10px;
+}
+#abajo {
+    background-color: #846F16;
+    height: 30px;
+    width: 1020px;
+    color: #FFFFFF;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    padding-top: 400px;
+    margin-top: 400px;
+}
+#ropa {
+    height: 1200px;
+    width: 1020px;
+}
+#ropa img{
+	margin-bottom: 20px;
+	margin-right: 10px;
+}
+#a1 {
+    height: 450px;
+    width: 1020px;
+    text-align: center;
+}
+#a1 img{
+    margin-bottom: 40px;
+    margin-right: 10px;
+    text-align: center;
+}
+.precios {
+    height: 30px;
+    width: 1020px;
+    text-align: center;
+    padding-left: 37px;
+}
+.contpresio {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    color: aliceblue;
+	font-size: 20px;
+    text-align: center;
+    background-color: #857017;
+    height: 30px;
+    width: 220px;
+    float: left;
+    margin-left: 12px;
+    margin-bottom: 10px;	
+    
+}
+
+}
+#contacto {
+    height: 300px;
+    width: 1020px;
+}
+#gracias {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    height: 50px;
+    width: 1020px;
+    color: #846E1B;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding-top: 110px;
+}
+.CONTENIDOS2 {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    height: 20px;
+    width: 900px;
+	}
+.CONTENIDOS3 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+    height: 50px;
+    width: 1000px;
+	color: #5C1024
+	}
+   
+   
+#maps {
+    height: 500px;
+    width: 1020px;
+    margin-top: 30px;	
+}
+#formulario {
+    height: 500px;
+    width: 1020px;
+}
